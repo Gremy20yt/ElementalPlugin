@@ -1,0 +1,6 @@
+name: ElementalPlugin
+version: 1.0
+main: it.aternos.elemental.ElementalMain
+api-version: '1.21'
+author: AternosUser
+description: Plugin Armi Elementali per Java e Bedrock
